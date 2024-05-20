@@ -1,0 +1,7 @@
+# Configuração MainBuilding->Offices->IPPrivada
+# DHCP desabilitado
+# dhcp
+
+ip 172.21.113.130 255.255.255.192 172.21.113.129
+
+set pcname HR-Priv

@@ -1,0 +1,10 @@
+# Configuração Datacenter->IT->
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 201.181.134.226 255.255.255.240 201.181.134.225
+
+
+set pcname Nerd

@@ -1,0 +1,7 @@
+# Configuração MainBuilding->Management
+# DHCP desabilitado
+# dhcp
+
+ip 201.181.134.210 255.255.255.240 201.181.134.209
+
+set pcname CEO

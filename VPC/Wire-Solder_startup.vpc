@@ -1,0 +1,10 @@
+# Configuração Development->Hardware->IpPrivado
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 172.21.113.2 255.255.255.128 172.21.113.1
+
+
+set pcname Wire-Solder

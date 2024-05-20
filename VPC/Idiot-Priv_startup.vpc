@@ -1,0 +1,10 @@
+# Configuração Development->Design->IPPrivado
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 172.21.113.226 255.255.255.240 172.21.113.225
+
+
+set pcname Idiot-Priv

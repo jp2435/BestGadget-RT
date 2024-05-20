@@ -1,0 +1,10 @@
+# Configuração Development->Design->IPPublico
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 201.181.134.242 255.255.255.248 201.181.134.241
+
+
+set pcname Idiot-Pub

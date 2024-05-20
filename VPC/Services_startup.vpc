@@ -1,0 +1,7 @@
+# Configuração Datacenter&IT->Datacenter
+# DHCP desabilitado
+# dhcp
+
+ip 201.181.134.162 255.255.255.224 201.181.134.161
+
+set pcname Services

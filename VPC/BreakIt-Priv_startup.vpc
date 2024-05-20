@@ -1,0 +1,10 @@
+# Configuração Development->Test->IpPrivado
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 172.21.113.194 255.255.255.224 172.21.113.193
+
+
+set pcname BreakIt-Priv

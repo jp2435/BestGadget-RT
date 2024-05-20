@@ -1,0 +1,7 @@
+# Configuração MainBuilding->Offices->IPPublico
+# DHCP desabilitado
+# dhcp
+
+ip 201.181.134.250 255.255.255.248 201.181.134.249
+
+set pcname HR-Pub
