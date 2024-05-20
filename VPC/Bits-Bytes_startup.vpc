@@ -1,0 +1,10 @@
+# Configuração Development->Software->IPPrivado
+
+# DHCP desabilitado
+# dhcp
+
+
+ip 172.21.112.2 255.255.255.0 172.21.112.1
+
+
+set pcname Bits-Bytes
